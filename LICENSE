@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 Di Ma
+Copyright (c) 2018 Dmitrii Marov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+***
+
+По-русски. Проект открытой (open-source) книги о процессах и методах разработки
+программного обеспечения, написанной дизайнерами для дизайнеров на понятном
+языке, описывающей стандартные этапы и жизненный цикл работы внутри большой
+ИТ-компании, применяющей DevOps. Распространяется по лицензии MIT.
